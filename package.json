@@ -1,0 +1,22 @@
+{
+  "name": "@shayykh/currency-convertor",
+  "version": "1.0.0",
+  "description": "A fully-fledged currency convertor created via Typescript, Nodejs and Inquirer",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M. Shayan Shaikh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
