@@ -1,6 +1,6 @@
 {
   "name": "@shayykh/currency-convertor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fully-fledged currency convertor created via Typescript, Nodejs and Inquirer",
   "main": "index.js",
   "publishConfig": {
