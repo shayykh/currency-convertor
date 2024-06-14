@@ -2,6 +2,8 @@
 
 import inquirer from "inquirer";
 
+console.log(`* Welcome to Currency Converter! *`);
+
 const currency: any = {
     USD: 1, //Base Currency
     EUR: 0.93,

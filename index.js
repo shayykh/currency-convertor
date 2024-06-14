@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import inquirer from "inquirer";
+console.log(`* Welcome to Currency Converter! *`);
 const currency = {
     USD: 1, //Base Currency
     EUR: 0.93,
